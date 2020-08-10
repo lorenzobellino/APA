@@ -2,4 +2,4 @@
 ## Politecnico di Torino 2019
 
 * Laboratorio 1
-  +esercizio 1
+  + esercizio 1
