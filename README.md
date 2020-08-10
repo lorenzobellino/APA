@@ -1,2 +1,2 @@
-# APA
-Algoritmi e Programmazione Avanzata Politecnico di Torino 2019
+# ALGORITMI E PROGRAMMAZIONE AVANZATA
+##Politecnico di Torino 2019
