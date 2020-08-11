@@ -359,14 +359,14 @@ int tentativo_DAG(int pos, Edge* val, Edge *sol, Edge **tentativi, int n, int k,
             count++;
         }
         else printf("aciclico = no\n");
-        //riinserisco gli archi nel grafo per poter continuare a verificare le ipotesi successive
+            //riinserisco gli archi nel grafo per poter continuare a verificare le ipotesi successive
         for(j=0;j<k;j++){
             insert_edge(G,create_edge(sol[j].v,sol[j].w,sol[j].wt));
         }
         return count;
     }
     for(i=start;i<n;i++){
-        sol[pos]=val[i]; //nel vettore sol salvo la soluzione ipotizzata localmente
+        sol[pos]=val[i];        //nel vettore sol salvo la soluzione ipotizzata localmente
         count=tentativo_DAG(pos+1,val,sol,tentativi,n,k,i+1,count,G); //ricorro sulla posizione successiva
     }
     return count; //ritorno il numero di soluzioni possibili ho trovato
@@ -396,9 +396,9 @@ int best_DAG(Edge **tentativi, int find, int cardinal,Graph G){
 
 void GRAPH_longest_path(Graph G) {
     int *TS,i;
-    TS = TS_dag(G); // TS è un vettore di vertici ordinati secondo il topological sorting inverso
-    for(i=G->V-1;i>=0;i--){ // per conoscere l'ordine topologico semplice leggo il vettore da destra a sinistra
+    TS = TS_dag(G);                     // TS è un vettore di vertici ordinati secondo il topological sorting inverso
+    for(i=G->V-1;i>=0;i--){             // per conoscere l'ordine topologico semplice leggo il vettore da destra a sinistra
         printf("\nSORGENTE  %s :\n",STsearchbyindex(G->tab,TS[i]));
-        relaxation(TS, G, TS[i]); //applico la relaxation a seguendo l'ordine topologico partendo, TS[i] = vertice di partenza
+        relaxation(TS, G, TS[i]);       //applico la relaxation a seguendo l'ordine topologico partendo, TS[i] = vertice di partenza
     }
 }

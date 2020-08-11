@@ -4,6 +4,7 @@
 #include "ST.h"
 
 //definizione della struttura dati:
+
 struct symboltable {char **a; int maxN;};
 
 //funzioni standard
