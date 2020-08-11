@@ -15,8 +15,7 @@ void find_max(int tot_punti[], int max_r);
 int main(int argc, char *argv[]){
 
 	FILE *c;
-	int i = 0, j = 0, k = 0, z = 0;
-	int sum;
+	int i = 0, j = 0;
 	char score;
 	c = fopen(campionato, "r");
 	int tabellone[n_max][m_max];
