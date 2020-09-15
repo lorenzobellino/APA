@@ -3,8 +3,11 @@
 
 * Laboratorio 1
   + [esercizio 1](https://github.com/lorenzobellino/APA/tree/master/L01/E01)
+    Manipolazione di matrici
   + [esercizio 2](https://github.com/lorenzobellino/APA/tree/master/L01/E02)
+    Ricodifica di testo tramite l'uso di un dizionario
   + [esercizio 3](https://github.com/lorenzobellino/APA/tree/master/L01/E03)
+    Manipolazione e rotazione di matrici tramite input da riga di comando
 * Laboratorio 2
   + [esercizio 1](https://github.com/lorenzobellino/APA/tree/master/L02/E01)
   + [esercizio 2](https://github.com/lorenzobellino/APA/tree/master/L02/E02)
