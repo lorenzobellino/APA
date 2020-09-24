@@ -71,5 +71,5 @@
   + [esercizio 1](https://github.com/lorenzobellino/APA/tree/master/L11/E01)
     Ricerca e ottimizzazione con l'utilizzo di BST e implementazione di strutture dati complesse con quasi ADT e ADT di prima classe
 * Laboratorio 12
-  + [esercizio 1](https://github.com/lorenzobellino/APA/tree/master/L12/E01)
+  + [esercizio 1](https://github.com/lorenzobellino/APA/tree/master/L12/E1)
     Grafi e DAG (direct acyclic graph)
