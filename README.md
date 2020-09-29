@@ -1,7 +1,7 @@
 # ALGORITMI E PROGRAMMAZIONE AVANZATA
 ## Politecnico di Torino 2019
 
-* Laboratorio 1
+* Laboratorio 1(https://github.com/lorenzobellino/APA/tree/master/LAB/L01/E01)
   + [esercizio 1](https://github.com/lorenzobellino/APA/tree/master/LAB/L01/E01)
     Manipolazione di matrici
   + [esercizio 2](https://github.com/lorenzobellino/APA/tree/master/LAB/L01/E02)
