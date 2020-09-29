@@ -1,0 +1,7 @@
+a n1 b n1 12
+d n3 a n1 13
+e n1 b n1 1
+a n2 c n1 6
+c n2 d n3 8
+f n3 b n3 9
+g n2 a n1 19

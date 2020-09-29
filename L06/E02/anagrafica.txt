@@ -1,7 +1,0 @@
-A0001 Anna Rossi 12/08/1992 via_Cortese Torino 10121
-A0002 Marcello Pasini 02/10/1963 via_Marche Milano 12345
-A0003 Marianna Rotari 27/08/1992 via_vallequiete Torino 10100
-A0004 Rebecca Bosso 25/12/1998 via_Elia Torino 10099
-A0005 Sara Castellano 30/04/1978 via_Verderosa Genova 15023
-A0006 Matteo Carmelo 11/11/1992 via_federico Roma 67666
-A0007 Andrea Giulio 1/1/1992 via_villafranca Torino 10121
