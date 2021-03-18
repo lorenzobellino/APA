@@ -49,7 +49,6 @@ int main(int argc, const char * argv[]) {
                 date mData2;
                 scanf("%d/%d/%d",&mData2.year,&mData2.month,&mData2.day);
                 searchQuoteInterval(mTargetTitle,mData1,mData2);
-
             }
             break;
         case 5:
@@ -71,5 +70,3 @@ int main(int argc, const char * argv[]) {
     }
     return 0;
 }
-
-    
