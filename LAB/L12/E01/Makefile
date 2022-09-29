@@ -7,4 +7,4 @@ all:
 	$(CC) $(CFLAGS) main.c graph.c ST.c -o $(PROG)
 
 clean:
-	del $(PROG)
+	rm $(PROG)
