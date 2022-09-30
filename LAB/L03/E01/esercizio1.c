@@ -11,7 +11,7 @@
 int riconosci_regione(int M[][max_c],int nr, int nc, int r, int c, int *b, int *h);
 void leggi_matrice(int matrice[][max_c], int *nr, int *nc, FILE *f);
 
-int main(int argc , char argv[]){
+int main(int argc , char* argv[]){
 
     FILE *f;
     int matrice[max_r][max_c];

@@ -19,7 +19,7 @@ void sostituisci(char codice[], int index_start, char stringa[], int n_character
 
 void confronta(char stringa[], code all[], int max_code, FILE *h);
 
-int main(int argc, char argv[]){
+int main(int argc, char* argv[]){
 
 	FILE *p, *d, *c;
 	code dizionario[MAX_N];

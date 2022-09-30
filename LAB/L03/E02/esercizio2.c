@@ -8,7 +8,7 @@ void int_to_bin(int n, char bin[]);
 void codifica(unsigned char *v, int size, int BIG);
 void format(char bin[], int size);
 
-int main(int argc, char argv[]){
+int main(int argc, char* argv[]){
 
     float af;
     double ad;

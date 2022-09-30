@@ -3,7 +3,7 @@
 #include <string.h>
 #include<ctype.h>
 
-#define FILENAME "log.txt"
+#define FILENAME "big_log.txt"
 #define max_l 10000
 #define max_s 55
 
