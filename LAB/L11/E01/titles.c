@@ -28,7 +28,7 @@ coll_titles newNodoTitolo(title mVal, coll_titles mTitles){
 coll_titles acquisisciFile(){
     char mTitle[N], mTime[N],mFilein[20];
     title Titolo;
-    int mNumberTransactions,i,j;
+    int mNumberTransactions,i;
     printf("Inserisci la path del file");
     scanf("%s",mFilein);
     FILE *fp;
